@@ -11,7 +11,7 @@ using System.Text;
 
 namespace HG.Droid
 {
-    [Activity(Label = "SplashActivity", Theme = "@style/SplashTheme", 
+    [Activity(Label = "Horizonte Ganadero", Theme = "@style/SplashTheme", 
         MainLauncher = true, NoHistory = true, ConfigurationChanges = Android.Content.PM.ConfigChanges.ScreenSize)]
     public class SplashActivity : Activity
     {
